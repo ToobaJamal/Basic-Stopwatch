@@ -1,3 +1,5 @@
 
+A basic stopwatch allowing users to measure time.
 
-<img src=”https://github.com/ToobaJamal/Basic-Stopwatch/blob/main/images/stopwatchimage.png" align=”center” width="250" height="250" >
+<img align="center" src="https://github.com/ToobaJamal/Basic-Stopwatch/blob/main/images/stopwatchimage.png"> 
+<width="250" height="250" >

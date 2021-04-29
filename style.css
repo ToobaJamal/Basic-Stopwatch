@@ -1,0 +1,35 @@
+body {
+    background-color:#330033;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    text-align: center;
+}
+#display {
+    color: palegoldenrod;
+    font-size: 4em;
+    width: 300px;
+    height: 300px;
+    margin-top: 2em;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid palegoldenrod;
+    border-radius: 50%;
+    box-shadow: 0 0 6px palegoldenrod;
+}
+#startstop, #reset {
+    cursor: pointer;
+    margin-top: .7em;
+    color: palegoldenrod;
+    font-size: 1rem;
+    background: transparent;
+    border: 2px solid palegoldenrod;
+    width: 80px;
+    height: 30px;
+    border-radius: 10%;
+}
